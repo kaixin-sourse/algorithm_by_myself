@@ -28,6 +28,7 @@ int find(int x) {
 }
 
 int main() {
+    ios;
     cin >> n >> m;
     for(int i = 0; i < m; i ++) {
         int a,b,w;
